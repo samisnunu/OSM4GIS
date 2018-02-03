@@ -8,9 +8,11 @@ The repositories are categorized based on world region then choose the content f
 The intention is to keep the data up-to-date.
 Currently, the data is updated on a weekly basis (every Friday).
 
-To make the data ready to use, the data has been exported into KML format, in future it will be available in other GIS Open formats such as OGC GeoPackage.
+To make the data ready to use, the data has been exported into KML format,in Geographic WGS84 coordinates system.
+In future it will be available in other GIS Open formats such as OGC GeoPackage.
 
-                                                                                    
+
+```
 Map Feature       	   Area										 Line											Point
                                                                                 
 Aerialway:					aerialway_area					aerialway_line					aerialway_point
@@ -43,3 +45,4 @@ Shop:				        shop_area										                    shop_point
 Sport:				      sport_area				      sport_line				      sport_point
 Tourism:				    tourism_area				    tourism_line				    tourism_point
 Waterway:			      waterway_area				    waterway_line			    	waterway_point
+```
