@@ -37,8 +37,8 @@ Natural:		natural_area			natural_line			natural_point
 Office:			office_area									office_point
 Place:			place_area							place_point
 Power:			power_area			power_line				power_point
-Protected_area:			protected_area		
-public_transport:		public_transport_area	public_transport_line		public_transport_point
+Protected_area:		protected_area		
+public_transport:	public_transport_area	public_transport_line		public_transport_point
 Railway:		railway_area					railway_line				railway_point
 Route:									route_line	
 Shop:			shop_area										shop_point
