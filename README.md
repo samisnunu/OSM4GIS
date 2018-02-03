@@ -26,7 +26,7 @@ Craft:				craft_area								craft_point
 Electoral:			electoral_area		
 Emergency:			emergency_area								emergency_point
 Geological:			geological_area								geological_point
-Highway:			highway_area				 highway_line			highway_point
+Highway:			highway_area				highway_line			highway_point
 Historic:			historic_area				historic_line			historic_point
 Island:				island_area				island_line				island_point
 Landuse:			landuse_area									landuse_point
@@ -39,9 +39,9 @@ Place:				place_area							place_point
 Power:				power_area				power_line				power_point
 Protected_area:			protected_area		
 public_transport:		public_transport_area		public_transport_line		public_transport_point
-Railway:		railway_area					railway_line				railway_point
+Railway:				railway_area					railway_line				railway_point
 Route:									route_line	
-Shop:				 shop_area										shop_point
+Shop:				shop_area										shop_point
 Sport:				sport_area				sport_line				sport_point
 Tourism:			tourism_area				tourism_line				tourism_point
 Waterway:			waterway_area				waterway_line				waterway_point
