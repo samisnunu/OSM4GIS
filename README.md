@@ -8,7 +8,7 @@ The repositories are categorized based on world region then choose the content f
 The intention is to keep the data up-to-date.
 Currently, the data is updated on a weekly basis (every Friday).
 
-To make the data ready to use, the data has been exported into KML format,in Geographic WGS84 coordinates system.
+To make the data ready to use, the data has been exported into KML format (all files in one zipped file),in Geographic WGS84 coordinates system.
 In future it will be available in other GIS Open formats such as OGC GeoPackage.
 
 
