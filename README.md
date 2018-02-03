@@ -11,13 +11,13 @@ Currently, the data is updated on a weekly basis (every Friday).
 To make the data ready to use, the data has been exported into KML format, in future it will be available in other GIS Open formats such as OGC GeoPackage.
 
                                                                                     
-Map Feature       	   Area										 Line							Point
+Map Feature       	   Area										 Line											Point
                                                                                 
 Aerialway:					aerialway_area					aerialway_line					aerialway_point
-Aeroway:				    aeroway_area				    aeroway_line				    aeroway_point
-Amenity:				    amenity_area										            amenity_point
-Barrier:										            barrier_line				    barrier_point
-Boundary:			      boundary_area				        boundary_line	
+Aeroway:				    aeroway_area				    aeroway_line				 		aeroway_point
+Amenity:				    amenity_area										            		amenity_point
+Barrier:										            		barrier_line				    barrier_point
+Boundary:			      boundary_area				    boundary_line	
 Building:			      building_area										                building_point
 Country:				    country_area		
 Craft:			  	    craft_area								                      craft_point
