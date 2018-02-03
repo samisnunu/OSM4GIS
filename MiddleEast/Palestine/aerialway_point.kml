@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>aerialway_point</name>
+<visibility>1</visibility>
+<Style id="Clip_to_AOI_67_KMLStyler">
+<IconStyle>
+<color>ffff0055</color>
+<scale>0.8</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<color>ff7fff7f</color>
+<scale>0.7</scale>
+</LabelStyle>
+<LineStyle>
+<width>1</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<colorMode>normal</colorMode>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<Schema name="public.vw_aerialway_point" id="kml_schema_ft_public.vw_aerialway_point">
+<SimpleField type="xsd:string" name="id">
+<displayName>id</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="name_en">
+<displayName>name_en</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="name_ar">
+<displayName>name_ar</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="alt_name">
+<displayName>alt_name</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="aerialway">
+<displayName>aerialway</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="aerialway_access">
+<displayName>aerialway_access</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="proposed">
+<displayName>proposed</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="description">
+<displayName>description</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="note">
+<displayName>note</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="information">
+<displayName>information</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="source">
+<displayName>source</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="ref">
+<displayName>ref</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="addr_city">
+<displayName>addr_city</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="country">
+<displayName>country</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="country_code">
+<displayName>country_code</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="longitude">
+<displayName>longitude</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="latitude">
+<displayName>latitude</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="last_update">
+<displayName>last_update</displayName>
+</SimpleField>
+</Schema>
+<Placemark id="kml_1">
+<name>proposed</name>
+<visibility>1</visibility>
+<snippet>proposed</snippet>
+<description><![CDATA[Modeling Experts OSM DB<center><table><tr><th colspan='2' align='center'><em>proposed</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>4055644110</td>
+</tr><tr bgcolor="">
+<th>name_en</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>name_ar</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>alt_name</th>
+<td>שער האשפות</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>aerialway</th>
+<td>proposed</td>
+</tr><tr bgcolor="">
+<th>aerialway_access</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>proposed</th>
+<td>station</td>
+</tr><tr bgcolor="">
+<th>description</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>note</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>information</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>source</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>ref</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>addr_city</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>country</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>country_code</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>longitude</th>
+<td>35.2352561</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>latitude</th>
+<td>31.7746813</td>
+</tr><tr bgcolor="">
+<th>last_update</th>
+<td>14/03/2016</td>
+</tr></table></center>]]></description>
+<styleUrl>#Clip_to_AOI_67_KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_public.vw_aerialway_point">
+<SimpleData name="id">4055644110</SimpleData>
+<SimpleData name="alt_name">שער האשפות</SimpleData>
+<SimpleData name="aerialway">proposed</SimpleData>
+<SimpleData name="proposed">station</SimpleData>
+<SimpleData name="longitude">35.2352561</SimpleData>
+<SimpleData name="latitude">31.7746813</SimpleData>
+<SimpleData name="last_update">14/03/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>35.2352561,31.7746813,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>proposed</name>
+<visibility>1</visibility>
+<snippet>proposed</snippet>
+<description><![CDATA[Modeling Experts OSM DB<center><table><tr><th colspan='2' align='center'><em>proposed</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>4055644112</td>
+</tr><tr bgcolor="">
+<th>name_en</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>name_ar</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>alt_name</th>
+<td>גת שמנים</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>aerialway</th>
+<td>proposed</td>
+</tr><tr bgcolor="">
+<th>aerialway_access</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>proposed</th>
+<td>station</td>
+</tr><tr bgcolor="">
+<th>description</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>note</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>information</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>source</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>ref</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>addr_city</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>country</th>
+<td></td>
+</tr><tr bgcolor="#E3E3F3">
+<th>country_code</th>
+<td></td>
+</tr><tr bgcolor="">
+<th>longitude</th>
+<td>35.2408445</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>latitude</th>
+<td>31.7800268</td>
+</tr><tr bgcolor="">
+<th>last_update</th>
+<td>14/03/2016</td>
+</tr></table></center>]]></description>
+<styleUrl>#Clip_to_AOI_67_KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_public.vw_aerialway_point">
+<SimpleData name="id">4055644112</SimpleData>
+<SimpleData name="alt_name">גת שמנים</SimpleData>
+<SimpleData name="aerialway">proposed</SimpleData>
+<SimpleData name="proposed">station</SimpleData>
+<SimpleData name="longitude">35.2408445</SimpleData>
+<SimpleData name="latitude">31.7800268</SimpleData>
+<SimpleData name="last_update">14/03/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>35.2408445,31.7800268,0.0</coordinates>
+</Point>
+</Placemark>
+</Document></kml>
