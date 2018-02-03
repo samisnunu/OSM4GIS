@@ -18,7 +18,7 @@ Map Feature		Area					Line								Point
 Aerialway:		aerialway_area		aerialway_line			aerialway_point
 Aeroway:		aeroway_area		aeroway_line				aeroway_point
 Amenity:		amenity_area											amenity_point
-Barrier:							barrier_line			barrier_point
+Barrier:					barrier_line			barrier_point
 Boundary:		boundary_area		boundary_line	
 Building:		building_area										building_point
 Country:		country_area		
@@ -36,11 +36,11 @@ Military:		military_area		military_line			military_point
 Natural:		natural_area		natural_line			natural_point
 Office:			office_area									office_point
 Place:			place_area							place_point
-Power:			power_area			power_line				power_point
+Power:			power_area		power_line				power_point
 Protected_area:		protected_area		
 public_transport:	public_transport_area	public_transport_line		public_transport_point
-Railway:		railway_area			railway_line				railway_point
-Route:								route_line	
+Railway:		railway_area		railway_line				railway_point
+Route:						route_line	
 Shop:			shop_area										shop_point
 Sport:			sport_area		sport_line				sport_point
 Tourism:		tourism_area		tourism_line				tourism_point
